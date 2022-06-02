@@ -7,13 +7,13 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Phai Chang Ban Da Yeu Ngay Tu Cai Nhin Dau Tien',
     desc: 'Nếu Bạn Thoát Khỏi Trang Này Tức Là Bạn Đã Có Người Yêu Rồi Nhó !',
-    btnYes: 'Tớ yeu thằng khác :)) ',
-    btnNo: 'Bạn bị ảo à ? ',
-    question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại yeu th khác <3',
+    btnYes: 'Tao Thích Mày :)) ',
+    btnNo: 'Mày bị ảo à ? ',
+    question:'Trên thế giới hơn 7 tỉ người mà sao bạn lại thích tớ <3',
     btnReply: 'Gửi cho bạn',
-    reply: ':)) Block',
+    reply: '=)) Thích thì thích thoi',
     mess: 'Tớ biết mà. ',
-    messDesc: 'Đùa tí thoiii mà :)) Khum Block nhó !',
+    messDesc: 'Đùa tí thoiii =)) Tớ khum biết !',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' 
+    messLink: 'https://www.facebook.com/messages/t/100077116656179' 
 }
