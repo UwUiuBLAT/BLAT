@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn',
     reply: ':)) Block',
     mess: 'Tớ biết mà. ',
-    messDesc: 'Đùa tí thoiiii mà :)) Khum Block nhó !',
+    messDesc: 'Đùa tí thoiii mà :)) Khum Block nhó !',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' 
 }
