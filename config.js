@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn',
     reply: '=)) Thích thì thích thoi',
     mess: 'Tớ biết mà. ',
-    messDesc: 'Đùa tí thoiii =)) Tớ khum biết !',
+    messDesc: 'Đùa tí thoiiii =)) Tớ khum biết !',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/people/Nguy%E1%BB%85n-Anh-Duy/100062010735524/' 
 }
